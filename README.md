@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I'm Kirill
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=28CD45&background=FFFFFF00&width=435&lines=Hi+there%2C+I'm+Kirill)](https://git.io/typing-svg)
 <!--
 **Kirill-pixel/Kirill-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
